@@ -1,8 +1,8 @@
 {
   "rewrites": [
-    { "source": "/company", "destination": "https://wp.kws-k.com/company" },
-    { "source": "/service", "destination": "https://wp.kws-k.com/service" },
-    { "source": "/works",   "destination": "https://wp.kws-k.com/works" },
-    { "source": "/contact", "destination": "https://wp.kws-k.com/contact" }
+    { "source": "/company/:path*", "destination": "https://wp.kws-k.com/company/:path*" },
+    { "source": "/service/:path*", "destination": "https://wp.kws-k.com/service/:path*" },
+    { "source": "/works/:path*",   "destination": "https://wp.kws-k.com/works/:path*" },
+    { "source": "/contact/:path*", "destination": "https://wp.kws-k.com/contact/:path*" }
   ]
 }
