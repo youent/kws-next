@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/company",
+      "destination": "https://wp.kws-k.com/company"
+    }
+  ]
+}
