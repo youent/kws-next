@@ -1,8 +1,8 @@
 {
   "rewrites": [
-    {
-      "source": "/company",
-      "destination": "https://wp.kws-k.com/company"
-    }
+    { "source": "/company", "destination": "https://wp.kws-k.com/company" },
+    { "source": "/service", "destination": "https://wp.kws-k.com/service" },
+    { "source": "/works",   "destination": "https://wp.kws-k.com/works" },
+    { "source": "/contact", "destination": "https://wp.kws-k.com/contact" }
   ]
 }
